@@ -21,6 +21,7 @@ The ability of the brain to monitor its own attention is important for controlli
 
 ### fMRI Data
 - fMRI data is available here: https://www.dropbox.com/sh/q51dsflo1riw9rf/AABcle7SHyfWi04KIAdcF-n-a?dl=0
+- and here: https://doi.org/10.34770/xa5e-q930
 
 ### Getting Started
 * Clone the Repo
